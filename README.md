@@ -1,2 +1,2 @@
 # DNA-topology-illustration
-Edited pictures of 2 circular tubes twisted together mimicing a DNA molecule with linking number 2.
+Edited pictures of 2 circular tubes twisted together mimicking a DNA molecule with linking number 2.
